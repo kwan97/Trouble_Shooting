@@ -6,7 +6,7 @@
 
 기존 소스 코드를 활용하여 페이지 재구현하던 중 에러를 마주하게 되었다.
 ### **<console 창에 찍힌 에러>**
-<img src="./images/스크린샷(154).png" height=300/>
+<img src="./images/스크린샷(154).png" height=200/>
 
 405 POST 에러와 함께 'data is not defined'라며 데이터를 찾을 수 없다는 에러 메시지가 나왔다.
 
