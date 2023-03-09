@@ -10,7 +10,7 @@
 
 405 POST 에러와 함께 'data is not defined'라며 데이터를 찾을 수 없다는 에러 메시지가 나왔다.
 
-**<Conroller 코드와 Intellij 터미널창>**
+### **<Controller 코드와 Intellij 터미널창>**
 <img src="./images/스크린샷(158).png" height=300/>
 
 <img src="./images/스크린샷(153).png" height=300/>
